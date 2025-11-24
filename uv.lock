@@ -11,6 +11,7 @@ dependencies = [
     { name = "ipykernel" },
     { name = "matplotlib" },
     { name = "pandas" },
+    { name = "pydantic" },
     { name = "scikit-learn" },
 ]
 
@@ -20,6 +21,7 @@ requires-dist = [
     { name = "ipykernel", specifier = ">=7.1.0" },
     { name = "matplotlib", specifier = ">=3.10.7" },
     { name = "pandas", specifier = ">=2.3.3" },
+    { name = "pydantic", specifier = ">=2.12.4" },
     { name = "scikit-learn", specifier = ">=1.7.2" },
 ]
 
