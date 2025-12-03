@@ -16,6 +16,7 @@ dependencies = [
     "pandas>=2.3.3",
     "pydantic>=2.12.4",
     "pydantic-ai>=1.23.0",
+    "pypdf>=6.4.0",
     "scikit-learn>=1.7.2",
     "streamlit>=1.51.0",
     "uvicorn>=0.38.0",
